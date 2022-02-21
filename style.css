@@ -1,0 +1,19 @@
+h1 {
+  text-align: center;
+}
+
+.objectif {
+  text-align: center;
+}
+
+.porte_fermé_bureau{
+  visibility: hidden;
+}
+
+.BUREAU_bureau{
+  visibility: hidden;
+}
+
+.codeok{
+  visibility: visible;
+}
